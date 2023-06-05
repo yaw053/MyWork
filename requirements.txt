@@ -1,0 +1,12 @@
+# Includes the list of all dependencies required to run setup() and use the package
+# Also used in testing workflow and to host the documentation on Read the Docs
+
+numpy
+pytest
+myst-nb
+sphinx_rtd_theme
+sphinx-copybutton
+sphinx-autoapi
+numpydoc
+gitpython
+git+https://github.com/anugrahjo/sphinx-collections.git
